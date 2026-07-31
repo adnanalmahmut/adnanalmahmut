@@ -79,7 +79,7 @@ I build web applications and internal tools with attention to system structure, 
 
 ## 05 / Connect
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/adnanmahmut">
     <img
       src="https://img.shields.io/badge/LinkedIn-D2F801?style=for-the-badge&logo=linkedin&logoColor=0A0A0A"
