@@ -19,7 +19,8 @@
         fill: #fafafa;
       }
       .st4 {
-        fill: none;
+      fill: #0a0a0a;
+      fill-opacity: 0.25;
       }
     </style>
   </defs>
